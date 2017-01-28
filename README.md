@@ -26,6 +26,10 @@ See license.txt for license information
 
 An asteroid has crashed and spread crystals amongst the land. Be quick before they take over!
 
+## Installation
+
+Download the *.zip file, extract into your mods folder, and rename the folder to "asteroid_crystals".
+
 Crafting
 --------
 
